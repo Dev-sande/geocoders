@@ -1,4 +1,4 @@
-# Digital Ground
+# Tapiwa Sande
 
 import geopy.geocoders
 from geopy.geocoders import Nominatim
